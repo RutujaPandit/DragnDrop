@@ -1,0 +1,15 @@
+#toast{
+
+    position: absolute; 
+    text-align:center;
+    top: 60px;
+    right: 50px;
+    margin:0 auto;
+    margin-top:10px;
+    margin-right:700px;
+    background-color: cornsilk;
+    border: 0px solid black;  
+    
+    
+
+}
