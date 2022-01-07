@@ -1,8 +1,8 @@
 .App {
   display: inline-block;
   align-items: center;
-  justify-content: center;
   margin:150px;
+  margin-left:450px;
   border:4px solid black!important;
   height:400px;
   width:400px;
