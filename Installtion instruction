@@ -1,0 +1,6 @@
+How to run this code in your vs code
+1)Create one folder on your machine
+2) Clone the project in that folder with gitbash
+3)Go inside the folder
+4)Run npm install
+5)Then Run npm start
